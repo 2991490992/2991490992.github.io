@@ -1,8 +1,11 @@
-<p>Hello 大家好</p>
-<p>我是霸都丶傲天，这是我的个人网站。 </p>
-<p>很高兴你来到这里, 你可以在以下的网站找到我</p>
+### 个人信息
+#### 姓名 徐锋
+#### 专业 电子信息工程
+#### 邮箱 2991490992@qq.com
 
+###  信号与系统实践环节
+第二次实验
 <ul>
-  <li> <a href="https://www.zhihu.com/people/AJLoveChina">知乎</a> </li>
+  <li> <a href="https://github.com/2991490992/2991490992.github.io/blob/main/123.py">阶跃信号</a> </li>
   <li> <a href="http://hejie.nigeerhuo.com">我的博客(已经不更细了,现在在知乎写文章)</a> </li>
 </ul>
